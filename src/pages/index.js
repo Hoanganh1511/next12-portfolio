@@ -43,7 +43,7 @@ export default function Home() {
               </p>
               <div className="flex items-center self-start mt-2 lg:self-center">
                 <Link
-                  href="/dummy.pdf"
+                  href="/Hoang-Tuan-Anh-FrontEnd-CV.pdf"
                   target={"_blank"}
                   className="flex items-center bg-black dark:bg-white text-white dark:text-dark
                   p-2.5 px-6 rounded-lg text-lg font-semibold 
@@ -56,15 +56,6 @@ export default function Home() {
                   download={true}
                 >
                   Resume <LinkArrow className="w-6 ml-1" />
-                </Link>
-                <Link
-                  href="/mailto:abcd@gmail.com"
-                  target={"_blank"}
-                  className="ml-4 text-lg font-medium capitalize text-black underline dark:text-light
-                  md:text-light md:text-base
-                  "
-                >
-                  Contact
                 </Link>
               </div>
             </div>
