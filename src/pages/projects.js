@@ -147,11 +147,10 @@ const projects = () => {
           <div className="grid grid-cols-12 gap-24 gap-y-32 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0">
             <div className="col-span-12">
               <FeaturedProject
-                title=" Crypto Screener Application (2022)"
+                title="NFT Marketplace App (07/2022)"
                 img={project1}
-                summary="A feature-rich Crypto Screener App using Next 12, Styled-Components. 
-                It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your 
-                local currency."
+                summary="A NFT Marketplace App using Next 12, Styled-Components. 
+                It shows detail NFT Gallery."
                 link="https://avatarart.io/"
                 github="/"
                 type="Featured Project"
