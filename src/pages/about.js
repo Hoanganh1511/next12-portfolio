@@ -37,7 +37,7 @@ const about = () => {
   return (
     <div>
       <Head>
-        <title>Tuan Anh</title>
+        <title>HTA | About Page</title>
         <meta name="description" content="any description" />
       </Head>
       <TransitionEffect />
